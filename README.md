@@ -1,3 +1,2 @@
 # MiProyecto
-Hola Hola
-HOlaaaaaaaaaa
+Descripcion primer ejercicio
